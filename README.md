@@ -16,11 +16,11 @@
    JavaScript <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br  />
    HTML5 <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <br />
    CSS <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <br />
-   C# <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   C# <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <br />
 
 ## Info: 
-> 16 Anos <br /> 
- 2º Ano - Ensino Médio <br /> 
+> 17 Anos <br /> 
+ 3º Ano - Ensino Médio <br /> 
 
 <!---
 kauan2812/kauan2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
