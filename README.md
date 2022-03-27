@@ -11,15 +11,12 @@
  
 </div>
 
-## Estou aprendendo:
-<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
 ## Conhecimentos: 
->  Basico Python <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <br /> 
-  Basico JavaScript <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br  />
-  Basico Lua <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"> <br /> 
-  Basico HTML5 <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <br />
-  Basico CSS <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <br />
+>  Python <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <br /> 
+   JavaScript <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br  />
+   HTML5 <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <br />
+   CSS <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <br />
+   C# <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 ## Info: 
 > 16 Anos <br /> 
