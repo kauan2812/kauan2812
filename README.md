@@ -12,7 +12,7 @@
 </div>
 
 ## Conhecimentos: 
->  Python <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <br /> 
+>  Python <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> - Django <br /> 
    JavaScript <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br  />
    HTML5 <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <br />
    CSS <img height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <br />
