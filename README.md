@@ -3,7 +3,8 @@ Contato: kcorreia925@gmail.com  <br />
 Instagram: [correia.kauan_](https://www.instagram.com/correia.kauan_/)
 
 ## Conhecimentos: 
-Java - C# <br />
+Java - HTML - CSS <br />
+C# - JavaScript (Básico) <br />
 
 ## Info: 
 > 18 Anos <br /> 
