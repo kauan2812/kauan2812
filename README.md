@@ -4,7 +4,7 @@ Instagram: [correia.kauan_](https://www.instagram.com/correia.kauan_/)
 
 ## Conhecimentos: 
 Java - HTML - CSS <br />
-C# - JavaScript (Básico) <br />
+C# - JavaScript - React (Básico) <br />
 
 ## Info: 
 > 18 Anos <br /> 
