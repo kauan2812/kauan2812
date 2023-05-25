@@ -5,7 +5,7 @@ Linkedin: https://www.linkedin.com/in/kauan-correia-911667266/
 
 ## Conhecimentos: 
 Java - HTML - CSS <br />
-C# - JavaScript - React (Básico) <br />
+C# - JavaScript <br />
 
 ## Info: 
 > 18 Anos <br /> 
