@@ -7,7 +7,7 @@ Linkedin: https://www.linkedin.com/in/kauancorreia/
 JavaScript - HTML - CSS - ReactJS <br />
 C# - Java <br />
 
-Aprofundando meu conhecimento em front-end <br />
+Aprofundando meu conhecimento em back-end <br />
 
 ## Info: 
 > 18 Anos <br /> 
