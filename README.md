@@ -4,10 +4,9 @@ Instagram: [correia.kauan_](https://www.instagram.com/correia.kauan_/) <br />
 Linkedin: https://www.linkedin.com/in/kauancorreia/
 
 ## Conhecimentos: 
-JavaScript - HTML - CSS - ReactJS <br />
-C# - Java <br />
+JavaScript - HTML - CSS <br />
 
-Aprofundando meu conhecimento em back-end <br />
+Você pode acompanhar todo o meu progresso nesta jornada, conforme os números em frente aos nomes dos projetos. <br />
 
 ## Info: 
 > 18 Anos <br /> 
