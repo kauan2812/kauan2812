@@ -9,6 +9,6 @@ JavaScript - HTML - CSS <br />
 Você pode acompanhar todo o meu progresso nesta jornada, conforme os números em frente aos nomes dos projetos. <br />
 
 ## Info: 
-> 18 Anos <br /> 
- Ciência da Computação - 2° Período <br /> 
+> 19 Anos <br /> 
+ Ciência da Computação - 3° Período <br /> 
 
