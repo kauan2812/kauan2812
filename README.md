@@ -1,10 +1,10 @@
 ## Olá, eu sou Kauan Correia!
-Contato: kcorreia925@gmail.com  <br /> 
+> Contato: kcorreia925@gmail.com  <br /> 
 Instagram: [correia.kauan_](https://www.instagram.com/correia.kauan_/) <br />
 Linkedin: https://www.linkedin.com/in/kauancorreia/
 
 ## Conhecimentos: 
-JavaScript - HTML - CSS - NodeJS - ReactJS <br />
+> JavaScript - HTML - CSS - NodeJS - ReactJS <br />
 
 ## Info: 
 > 19 Anos <br /> 
