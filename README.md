@@ -7,5 +7,5 @@ Linkedin: https://www.linkedin.com/in/kauancorreia/
 > JavaScript - HTML - CSS - NodeJS - ReactJS - Java - Bun <br />
 
 ## Info: 
-> Ciência da Computação - 4° Período <br /> 
+> Ciência da Computação - 6° Período <br /> 
 
